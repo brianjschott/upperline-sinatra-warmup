@@ -1,4 +1,4 @@
-#There are 4 mistakes in here!
+#There are 5 mistakes in here!
 
 require './config/environment'
 require './app/models/sample_model'
